@@ -14,3 +14,8 @@ code {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+#vivin {
+  color:"red";
+}
